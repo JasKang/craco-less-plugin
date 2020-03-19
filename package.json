@@ -1,0 +1,22 @@
+{
+  "name": "craco-less-plugin",
+  "version": "0.0.1",
+  "description": "craco less plugin",
+  "main": "index.js",
+  "author": "jaskang",
+  "license": "MIT",
+  "keywords": [
+    "craco",
+    "cra",
+    "less",
+    "create-react-app"
+  ],
+  "dependencies": {
+    "less": "^3.11.1",
+    "less-loader": "^5.0.0"
+  },
+  "peerDependencies": {
+    "@craco/craco": "^5.5.0",
+    "react-scripts": "^3.3.0"
+  }
+}
